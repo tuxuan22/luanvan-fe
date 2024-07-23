@@ -1,0 +1,8 @@
+export { default as Login } from './Login'
+export { default as Home } from './Home'
+export { default as Header } from './Header'
+export { default as Contact } from './Contact'
+export { default as Promotion } from './Promotion'
+export { default as Homepage } from './Homepage'
+export { default as Flight } from './Flight'
+export { default as Passenger } from './Passenger'
